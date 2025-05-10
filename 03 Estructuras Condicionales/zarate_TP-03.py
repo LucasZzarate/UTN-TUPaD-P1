@@ -6,7 +6,7 @@ if edad > 18 :
     print("Es mayor de edad.")
 else:
     pass
-''''
+'''
 
 #2
 ''''
@@ -16,7 +16,7 @@ if nota >= 6.0:
     print("Aprobado")
 else:
     print("Desaprobado")
-''''
+'''
 
 
 #3
@@ -27,7 +27,7 @@ if (num %2) == 0:
     print("Ha ingresado un número par.")
 else:
     print("Por favor, ingrese un número par.")
-''''
+'''
 
 
 #4
@@ -54,7 +54,7 @@ if len(contrasena) >= 8 and len(contrasena) <=14:
     print("Ha ingresado una contraseña correcta.")
 else:
     print("Por favor, ingrese una contraseña de 8 a 14 caracteres.")
-''''
+'''
 
 #6
 '''''
@@ -80,7 +80,7 @@ elif media < mediana < moda:
     print("Hay sesgo negativo.")
 else:
     print("Sin sesgo.")
-''''
+'''
 
 #7
 ''''
@@ -92,7 +92,7 @@ if palabra[-1] in list_vocales :
     print(f"{palabra}!")
 else :
     print(palabra)
-''''
+'''
 
 #8
 ''''
@@ -108,7 +108,7 @@ elif num == 3:
     print(nombre.title())
 else:
     print("El número ingresado no pertenece a una opción.")
-''''
+'''
 
 #9
 ''''
