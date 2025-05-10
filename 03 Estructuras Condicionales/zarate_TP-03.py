@@ -166,3 +166,4 @@ else:
     pass
     print('El hemisferio no corresponde.')
 '''
+print("apple" > "banana")
